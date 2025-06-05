@@ -1,0 +1,14 @@
+[project]
+name = "4-06-2025-proje"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "black>=25.1.0",
+    "isort>=6.0.1",
+    "matplotlib>=3.10.3",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "streamlit>=1.45.1",
+]
